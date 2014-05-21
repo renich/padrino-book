@@ -6,28 +6,27 @@ the Padrino's web page [padrinorb.com](http://www.padrinorb.com/).
 
 
 Although Padrino borrows many ideas and techniques from it's big brother [Rails](http://rubyonrails.org/) it aims to be
-more modular and allows you to interchange various components with considerable ease. You will see this when you will
-the creation of two different application we are going to build throughout the book.
+more modular and allows you to interchange various components with considerable ease. You will see this when we proceed
+to the creation of two different applications we are going to build throughout the book.
 
 
 ### Why Padrino With The Developer Point of View
 
 Nothing is enabled without explicit choice. You as a programmer know what database is best for your application, which
-Gems don't carry security issues. If you are honest to yourself you can only learn a framework by heart if you go and
-digg under the hood. Because Padrino is so small it is easy to go through the code to understand most of the source.
-There is no need for monkey-patching, almost everything can be changed via an API. Padrino is rack-friendly, so a lot of
-techniques that are common to Ruby can be reused.  Having a low stack frame makes it easier for debugging.  The best
-Rails convenience parts like `I18n` and `active_support` are available for you.
+Gems don't carry security issues, etc. If you are honest to yourself you can only learn a framework by heart if you go
+on and dig under the hood. Because Padrino is so small it is easy to go through the code to understand most of the
+source. There is no need for monkey-patching, almost everything can be changed via an API. Padrino is rack-friendly, so
+a lot of techniques that are common to Ruby can be reused. Having a low stack frame makes it's easier for debugging. The
+best Rails convenience parts like `I18n` and `active_support` are available for you.
 
 
 ### Why Padrino In A Human Way?
 
 Before going any further you may ask: Why should you care about learning and using another web framework? Because you
-want something that is *easy to use*, *simple to hack*, and *open to any contribution*. If you've done
-Rails before, you may reach the point where you can't see how things are solved in particular
-order. In other words: There are many layers between you and the core of you application. You want to have the freedom
-to chose which layers you want to use in your application. This freedoms comes with the help of the
-[Sinatra framework](http://www.sinatrarb.com/).
+want something that is *easy to use*, *simple to hack* and *open to any contribution*. If you've done Rails before, you
+may reach the point where you can't see how things are solved in particular order. In other words: There are many layers
+between you and the core of you application. You want to have the freedom to chose which layers you want to use in your
+application. This freedom comes with the help of the [Sinatra framework](http://www.sinatrarb.com/).
 
 
 Padrino adds the core values of Rails into Sinatra and gives you the following extras:
