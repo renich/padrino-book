@@ -6,7 +6,7 @@ which to use, because basically you are reading this book to learn Padrino.
 
 
 To actually see a running padrino app, you need a web browser of your choice.  For writing the application, you can
-either use an Integrated Development Environment (IDE) or with a plain text editor.
+either use an Integrated Development Environment (IDE) or a plain text editor.
 
 
 Nowadays there are a bunch of Integrated Development Environments (IDEs) out there:
@@ -28,7 +28,7 @@ Here is a list of plain text editors which are a popular choice among Ruby devel
 
 
 All tools have their strengths and weaknesses. Try to find the software that works best for you. The main goal is that
-you comfortable because you will spend a lot of time with it.
+you're comfortable because you will spend a lot of time with it.
 
 
 **Ruby Knowledge**
